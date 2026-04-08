@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is a multi-part SQL-based data analysis case study focused on understanding water access, quality, and infrastructure challenges in Maji Ndogo.
 
-The analysis follows a structured, real-world data workflow — from initial exploration to actionable insights — with an emphasis on data quality, validation, and decision-making.
+The analysis follows a structured, real-world data workflow, from initial exploration to actionable insights, with an emphasis on data quality, validation, and decision-making.
 
 ---
 
@@ -23,7 +23,7 @@ This project is organized into four parts:
 4. **Analysis & Insights (Part 4)**  
    Synthesizing findings into actionable insights and recommendations to support data-driven decision-making.
 
-> ⚠️ This project is currently under development. Subsequent parts (Part 2–4) will be uploaded progressively.
+> ⚠️ This project is currently under development. Subsequent parts (Part 3–4) will be uploaded progressively.
 
 ---
 
