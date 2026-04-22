@@ -23,7 +23,7 @@ This project is organized into four parts:
 4. **Analysis & Insights (Part 4)**  
    Synthesizing findings into actionable insights and recommendations to support data-driven decision-making.
 
-> ⚠️ This project is currently under development. Subsequent parts (Part 3–4) will be uploaded progressively.
+> ⚠️ This project is currently under development. Subsequent parts (Part 4) will be uploaded progressively.
 
 ---
 
